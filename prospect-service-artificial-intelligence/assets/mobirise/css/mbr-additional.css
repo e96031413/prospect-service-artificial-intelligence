@@ -1,0 +1,45 @@
+#menu-NaN .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-NaN.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-NaN .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-NaN .mbr-brand__name a {
+  font-size: 18px;
+}
+#menu-NaN .mbr-navbar__items a {
+  font-size: 18px;
+}
+#menu-NaN .mbr-brand__name a SPAN {
+  font-size: 25px;
+}
+#header1-NaN DIV {
+  text-align: left;
+}
+#header3-NaN H3 {
+  font-size: 60px;
+  text-align: center;
+}
+#features1-NaN P {
+  color: #28324e;
+}
+#social-buttons2-NaN .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box1-NaN .mbr-header .mbr-header__text {
+  color: #fff;
+  text-align: right;
+}
+#msg-box1-NaN .mbr-article {
+  color: #fff;
+}
+#contacts3-NaN .btn {
+  font-size: 18px;
+}
+#contacts3-NaN P {
+  color: #ffffff;
+}
